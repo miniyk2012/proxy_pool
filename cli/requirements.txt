@@ -18,4 +18,4 @@ requests==2.20.0
 six==1.14.0
 tzlocal==2.0.0
 urllib3==1.24.3
-Werkzeug==0.11.15
+Werkzeug==0.15.3
