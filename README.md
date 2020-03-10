@@ -36,7 +36,7 @@ git clone git@github.com:jhao104/proxy_pool.git
 * 安装依赖:
 
 ```shell
-pip install -r requirements.txt
+pip install -i https://pypi.doubanio.com/simple/  -r requirements.txt 
 ```
 
 * 配置Config/setting.py:

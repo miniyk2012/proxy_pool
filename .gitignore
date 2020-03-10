@@ -3,3 +3,5 @@
 *.log
 venv
 .env
+cli/schedule.log
+cli/webserver.log

@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-python proxyPool.py webserver &
-python proxyPool.py schedule
+nohup python proxyPool.py schedule 1>schedule.log &
+nohup python proxyPool.py webserver 1>webserver.log &
